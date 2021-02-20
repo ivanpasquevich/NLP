@@ -1,0 +1,5 @@
+https://opensource.com/article/18/1/step-step-guide-git
+
+https://phoenixnap.com/kb/how-to-install-git-windows
+
+https://github.com/git-guides/install-git
